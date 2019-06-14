@@ -1,8 +1,8 @@
 # LaserTripWire
 
-HomeKit compatible Laser trip wire using CircuitPython and HomeBridge. When the laser beam between an emitter and the receptor is interrupted, it sends out a notification to iOS devices through the Home App (HomeLit framework).
+HomeKit compatible Laser trip wire using [CircuitPython](https://circuitpython.org/) and [HomeBridge](https://www.npmjs.com/package/homebridge).  
 
-This repository includes CircuitPython code files in addition to the files for 3D-printing the laser emitter support.
+When the laser beam between the emitter and the receptor is interrupted, it sends a notification to iOS devices through the Home App (HomeKit framework). This repository includes the CircuitPython code files and the needed files for 3D-printing the laser emitter support.
 
 More information at [www.movingelectrons.net](http://movingelectrons.net/).
 
